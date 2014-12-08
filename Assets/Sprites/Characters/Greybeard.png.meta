@@ -1,15 +1,19 @@
 fileFormatVersion: 2
-guid: 1c3a3ab7faf7d4b9080244c1d7538ee7
+guid: 3bb98e0e469d7486db630cb5b575d9df
 TextureImporter:
   fileIDToRecycleName:
-    21300000: environmentalAssets2_0
-    21300002: environmentalAssets2_1
-    21300004: environmentalAssets2_2
-    21300006: environmentalAssets2_4
-    21300008: environmentalAssets2_5
-    21300010: environmentalAssets2_6
-    21300012: environmentalAssets2_7
-    21300014: environmentalAssets2_8
+    21300000: 04_0
+    21300002: 04_1
+    21300004: 04_2
+    21300006: 04_3
+    21300008: 04_4
+    21300010: 04_5
+    21300012: Greybeard_0
+    21300014: Greybeard_1
+    21300016: Greybeard_2
+    21300018: Greybeard_3
+    21300020: Greybeard_4
+    21300022: Greybeard_5
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -51,84 +55,64 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: environmentalAssets2_0
+    - name: Greybeard_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 483
-        width: 374
-        height: 533
-      alignment: 0
+        x: 3
+        y: 1033
+        width: 90
+        height: 110
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: environmentalAssets2_1
+    - name: Greybeard_1
       rect:
         serializedVersion: 2
-        x: 400
-        y: 787
+        x: 0
+        y: 776
         width: 96
-        height: 229
-      alignment: 0
+        height: 112
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: environmentalAssets2_2
+    - name: Greybeard_2
       rect:
         serializedVersion: 2
-        x: 508
-        y: 875
-        width: 42
-        height: 141
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: environmentalAssets2_4
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 611
-        width: 135
-        height: 157
-      alignment: 0
+        x: 0
+        y: 511
+        width: 95
+        height: 111
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: environmentalAssets2_5
+    - name: Greybeard_3
       rect:
         serializedVersion: 2
-        x: 400
-        y: 500
-        width: 160
-        height: 96
-      alignment: 0
+        x: 2
+        y: 383
+        width: 89
+        height: 113
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: environmentalAssets2_6
+    - name: Greybeard_4
       rect:
         serializedVersion: 2
-        x: 8
-        y: 51
-        width: 267
-        height: 413
-      alignment: 0
+        x: 0
+        y: 256
+        width: 95
+        height: 110
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: environmentalAssets2_7
+    - name: Greybeard_5
       rect:
         serializedVersion: 2
-        x: 292
-        y: 238
-        width: 122
-        height: 226
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: environmentalAssets2_8
-      rect:
-        serializedVersion: 2
-        x: 292
-        y: 34
-        width: 142
-        height: 190
-      alignment: 0
+        x: 0
+        y: 0
+        width: 96
+        height: 110
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 

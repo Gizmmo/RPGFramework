@@ -1,15 +1,19 @@
 fileFormatVersion: 2
-guid: 1c3a3ab7faf7d4b9080244c1d7538ee7
+guid: 9000823aab34c427ebb4f38a6d4e52f8
 TextureImporter:
   fileIDToRecycleName:
-    21300000: environmentalAssets2_0
-    21300002: environmentalAssets2_1
-    21300004: environmentalAssets2_2
-    21300006: environmentalAssets2_4
-    21300008: environmentalAssets2_5
-    21300010: environmentalAssets2_6
-    21300012: environmentalAssets2_7
-    21300014: environmentalAssets2_8
+    21300000: 02_0
+    21300002: 02_1
+    21300004: 02_2
+    21300006: 02_3
+    21300008: 02_4
+    21300010: 02_5
+    21300012: Olaf_0
+    21300014: Olaf_1
+    21300016: Olaf_2
+    21300018: Olaf_3
+    21300020: Olaf_4
+    21300022: Olaf_5
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -51,84 +55,64 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: environmentalAssets2_0
+    - name: Olaf_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 483
-        width: 374
-        height: 533
-      alignment: 0
+        x: 22
+        y: 1027
+        width: 52
+        height: 122
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: environmentalAssets2_1
+    - name: Olaf_1
       rect:
         serializedVersion: 2
-        x: 400
-        y: 787
-        width: 96
-        height: 229
-      alignment: 0
+        x: 3
+        y: 781
+        width: 90
+        height: 114
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: environmentalAssets2_2
+    - name: Olaf_2
       rect:
         serializedVersion: 2
-        x: 508
-        y: 875
-        width: 42
-        height: 141
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: environmentalAssets2_4
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 611
-        width: 135
-        height: 157
-      alignment: 0
+        x: 13
+        y: 512
+        width: 71
+        height: 125
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: environmentalAssets2_5
+    - name: Olaf_3
       rect:
         serializedVersion: 2
-        x: 400
-        y: 500
-        width: 160
-        height: 96
-      alignment: 0
+        x: 12
+        y: 383
+        width: 61
+        height: 128
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: environmentalAssets2_6
+    - name: Olaf_4
       rect:
         serializedVersion: 2
-        x: 8
-        y: 51
-        width: 267
-        height: 413
-      alignment: 0
+        x: 13
+        y: 259
+        width: 73
+        height: 122
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: environmentalAssets2_7
+    - name: Olaf_5
       rect:
         serializedVersion: 2
-        x: 292
-        y: 238
-        width: 122
-        height: 226
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: environmentalAssets2_8
-      rect:
-        serializedVersion: 2
-        x: 292
-        y: 34
-        width: 142
-        height: 190
-      alignment: 0
+        x: 16
+        y: 0
+        width: 52
+        height: 121
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
